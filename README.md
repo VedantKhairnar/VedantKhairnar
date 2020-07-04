@@ -1,6 +1,9 @@
 ### Hi there 👋
-#### Vedant Khairnar,here
+#### Vedant Khairnar, here
 
+A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
+
+A person who is also
 Dev| Intern@Tesselate Imaging| Beta Microsoft Student Partner| Freelancer| DSC RCOEM Core| AI Mentor @Tesseract Coding| FOSS Enthusiast| in a DEEP Life!!
 
 Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
