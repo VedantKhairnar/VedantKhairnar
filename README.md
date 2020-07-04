@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Vedant Khairnar, here
+![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
 
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
