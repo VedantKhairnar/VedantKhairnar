@@ -12,15 +12,14 @@
 
 ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
 
-<p align="center">
+<!---
 
 ## Tech I Fonder
  
-</p>
+
 
 ![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
 
-<!---
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
 A person who is also
