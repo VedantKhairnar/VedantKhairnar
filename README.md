@@ -6,7 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/vedantkhairnar/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/VedantKhairnar3) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VedantKhairnar)
- 
+ [![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
+
  </div>
 
 
@@ -42,10 +43,9 @@ Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/Vedant
 
 [![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/0)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/0)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/1)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/1)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/2)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/2)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/3)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/3)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/4)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/4)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/5)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/5)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/6)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/6)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/7)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/7)
 
-[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
+![Vedant Khairnar](http://vedantkhairnar.ml/)
 
 
 ![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
 
-[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
