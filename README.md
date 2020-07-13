@@ -8,6 +8,12 @@
 
 ---
 
+![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code.png)
+
+
+
+
+<!---
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
 A person who is also
@@ -23,6 +29,7 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 💬 Ask me about any sort of motivation!!!
 - 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
+-->
 
 Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
 
