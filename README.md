@@ -33,6 +33,9 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 💬 Ask me about any sort of motivation!!!
 - 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
+
+![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
+
 -->
 
 Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
@@ -46,6 +49,5 @@ Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/Vedant
 [Vedant Khairnar](http://vedantkhairnar.ml/)
 
 
-![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
