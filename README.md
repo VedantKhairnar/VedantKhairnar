@@ -10,15 +10,15 @@
 
  </div>
 
-
-
 ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
 
+<p align="center">
+
 ## ㄒ乇匚卄 丨 千ㄖ几Ｄ乇尺
+ 
+</p>
 
 ![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
-
-
 
 <!---
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
