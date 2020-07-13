@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/vedantkhairnar/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/VedantKhairnar3) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar) 
+[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/):heart: 💬 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar) 
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VedantKhairnar)
 
 ---
@@ -23,6 +23,9 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 💬 Ask me about any sort of motivation!!!
 - 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
+
+Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
+
 
 [![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/0)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/0)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/1)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/1)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/2)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/2)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/3)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/3)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/4)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/4)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/5)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/5)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/6)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/6)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/7)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/7)
 
