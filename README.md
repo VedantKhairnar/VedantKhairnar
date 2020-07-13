@@ -14,6 +14,9 @@
 
 ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
 
+## ㄒ乇匚卄 丨 千ㄖ几ᗪ乇尺
+
+![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
 
 
 
@@ -38,7 +41,7 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 
 -->
 
-Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
+### Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
 
 
 
