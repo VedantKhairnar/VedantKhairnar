@@ -14,7 +14,7 @@
 
 ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
 
-## ㄒ乇匚卄 丨 千ㄖ几ᗪ乇尺
+## ㄒ乇匚卄 丨 千ㄖ几Ｄ乇尺
 
 ![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
 
