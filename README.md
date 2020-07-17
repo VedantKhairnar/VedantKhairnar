@@ -13,7 +13,7 @@
 
  </div>
 
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
+![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code2.png)
 
 <!---
 
