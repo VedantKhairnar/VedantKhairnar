@@ -1,5 +1,7 @@
 
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! ,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+
+## I am 
 ![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
 
 <div align="centre">
