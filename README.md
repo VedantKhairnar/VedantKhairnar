@@ -2,7 +2,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 ## I am 
-![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+![1](./assets/name.gif)
 
 <div align="centre">
 
@@ -15,7 +15,7 @@
 <!--![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)-->
  </div>
 
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/Github%20Profile.png)
+![carbon](./assets/Github%20Profile.png)
 
 <!---
 
