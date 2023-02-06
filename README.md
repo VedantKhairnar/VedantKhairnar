@@ -2,7 +2,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 ## I am 
-![1](./assets/name.gif)
+![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/849456bbbd08960bd8e66e84b55ac620847c1c66/assets/name.gif)
 
 <div align="centre">
 
