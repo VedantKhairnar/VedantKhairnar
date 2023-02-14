@@ -2,7 +2,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 ## I am 
-![1](./assets/name.gif)
+![1](https://cdn.jsdelivr.net/gh/VedantKhairnar/VedantKhairnar/assets/name.gif)
 
 <div align="centre">
 
@@ -15,14 +15,14 @@
 <!--![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)-->
  </div>
 
-![carbon](./assets/Github%20Profile.png)
+![carbon](https://cdn.jsdelivr.net/gh/VedantKhairnar/VedantKhairnar/assets/Github%20Profile.png)
 
 <!--
 ## Tech I Fonder
  
 
 
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+![alt](master/assets/linkedinBack1.png)
 
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
