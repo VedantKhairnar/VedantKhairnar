@@ -15,7 +15,7 @@
 <!--![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)-->
  </div>
 
-![carbon](https://cdn.jsdelivr.net/gh/VedantKhairnar/VedantKhairnar/assets/Github%20Profile.png)
+![carbon](./assets/Github%20Profile.png)
 
 <!--
 ## Tech I Fonder
